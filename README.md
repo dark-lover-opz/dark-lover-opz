@@ -78,9 +78,5 @@
 
 
 
-<p align="center">
-        <img src="https://metrics.lecoq.io/dark-lover-opz?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="Github Stats" />
-</p>
-
 
  
