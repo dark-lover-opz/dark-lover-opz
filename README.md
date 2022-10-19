@@ -21,11 +21,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Trying++to+do+better&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<!-- Social icons section -->
-<p align="center">
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Dark+lover;welcome+to+my+profile...!" />
-</div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
@@ -41,12 +36,9 @@
 </div>
 -->
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Trying++to+do+better&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p>
 
-<!-- Social icons section -->
+<h3 align="left">CONNECT WITH ME:</h3>
+<p align="left">
 <p align="center">
   <p align="center">
   <a href="https://youtube.com/channel/UCcjaUmRbpSOxxK_ER3lkWWw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
@@ -58,15 +50,6 @@
   <a href="https://wa.me/918281860437?text=%F0%9D%90%87%F0%9D%90%A2%E2%99%A5%EF%B8%8F"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://i.imgur.com/U5ZLX7B.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_spark_shadow_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_spark_shadow_" height="30" width="40" /></a>
-</p>
-
-- ✌️ [WhatsApp](https://wa.me/919526808481)
 
 
 
@@ -84,14 +67,6 @@
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_spark_shadow_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_spark_shadow_" height="30" width="40" /></a>
-</p>
-
-- ✌️ [WhatsApp](https://wa.me/919526808481)
 
 
 
