@@ -53,13 +53,13 @@
 
 
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=Neeraj-x0&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dark-lover-opz&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
   
 
 
 
 <p align="center">
-        <img src="https://metrics.lecoq.io/Neeraj-x0?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="Github Stats" />
+        <img src="https://metrics.lecoq.io/dark-lover-opz?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="Github Stats" />
 </p>
 
 
@@ -70,13 +70,13 @@
 
 
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=Neeraj-x0&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=dark-lover-opz&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
   
 
 
 
 <p align="center">
-        <img src="https://metrics.lecoq.io/Neeraj-x0?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="Github Stats" />
+        <img src="https://metrics.lecoq.io/dark-lover-opz?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="Github Stats" />
 </p>
 
 
