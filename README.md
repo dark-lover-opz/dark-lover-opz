@@ -37,7 +37,7 @@
 -->
 
 
-<h3 align="left">CONNECT WITH ME:</h3>
+<h3 align="left">╭──╌╍═╌╍═╌╍╌╮</h3>
 <p align="left">
 <p align="center">
   <p align="center">
