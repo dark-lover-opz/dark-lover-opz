@@ -50,7 +50,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/jithuzzz_zz?igshid=YmMyMTA2M2Y="><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/zA1qi8m.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/918281860437?text=%F0%9D%90%87%F0%9D%90%A2%E2%99%A5%EF%B8%8F"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://i.imgur.com/U5ZLX7B.png"/></a>
+  <a href="https://wa.me/918281860437?text=%F0%9D%90%87%F0%9D%90%A2%E2%99%A5%EF%B8%8F"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://i.imgur.com/VNe05TT.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
