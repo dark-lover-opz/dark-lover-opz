@@ -58,13 +58,8 @@
 
 
 
-
-
-
   <img src="https://activity-graph.herokuapp.com/graph?username=dark-lover-opz&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
   
-
-
 
 <p align="center">
         <img src="https://metrics.lecoq.io/dark-lover-opz?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Asia%2FKolkata" alt="Github Stats" />
@@ -74,13 +69,3 @@
  <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
-
-
-
-
-
-
-
-
- 
