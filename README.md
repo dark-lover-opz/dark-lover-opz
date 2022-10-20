@@ -40,7 +40,7 @@
 </p>
 
 
-<h3 align="left"> ╭──╌╍═╌╍═╌╍╌─╮</h3>
+<h3 align="left"> ──────────⤍ </h3>
 <p align="left">
 <p align="center">
   <a href="https://youtube.com/channel/UCcjaUmRbpSOxxK_ER3lkWWw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
@@ -57,6 +57,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://pin.it/3aGyWaL"><img width="32px" alt="Pinterest" title="Pinterest" src="https://i.imgur.com/bJNqLRO.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+ <h3 align="left"> ──────────⤍ </h3>
 
 
 
