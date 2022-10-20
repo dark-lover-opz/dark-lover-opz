@@ -43,7 +43,6 @@
 <h3 align="left"> ╭──╌╍═╌╍═╌╍╌─╮</h3>
 <p align="left">
 <p align="center">
-  <p align="center">
   <a href="https://youtube.com/channel/UCcjaUmRbpSOxxK_ER3lkWWw"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/dark_lover_opz"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/ewD5XTz.png"/></a>
@@ -52,6 +51,12 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://wa.me/918281860437?text=%F0%9D%90%87%F0%9D%90%A2%E2%99%A5%EF%B8%8F"><img width="32px" alt="WhatsApp" title="WhatsApp" src="https://i.imgur.com/VNe05TT.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.facebook.com/profile.php?id=100008635365791"><img width="32px" alt="facebook" title="facebook" src="https://i.imgur.com/Sb2ACcy.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://i.imgur.com/Cn0dNCc.jpeg"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/yxH1LyT.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+
 
 
 
