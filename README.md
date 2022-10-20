@@ -53,7 +53,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.facebook.com/profile.php?id=100008635365791"><img width="32px" alt="facebook" title="facebook" src="https://i.imgur.com/Sb2ACcy.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://i.imgur.com/Cn0dNCc.jpeg"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/yxH1LyT.png"/></a>
+    <a href="https://t.me/dark_lover_ofc"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/yxH1LyT.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
