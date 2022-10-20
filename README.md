@@ -55,6 +55,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://t.me/dark_lover_ofc"><img width="32px" alt="Telegram" title="Telegram" src="https://i.imgur.com/yxH1LyT.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://pin.it/3aGyWaL"><img width="32px" alt="Pinterest" title="Pinterest" src="https://i.imgur.com/bJNqLRO.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
 
