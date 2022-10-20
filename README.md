@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Dark+lover;welcome+to+my+profile...!" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=36&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Dark+lover;welcome+to+my+profile...!" />
 </div>
 
 <div align="center">
@@ -59,6 +59,17 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <h3 align="left"> ──────────⤍ </h3>
 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=dark-lover-opz&label=Visitors%20count&color=10d9c3&style=plastic" alt="dark-lover-opz" /> </p>
+ <p align="center">
+    <a href="https://git.io/typing-svg">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Learning+To+coding+and+Trying....!"
+            alt="Typing SVG"
+        />
+    </a>
+<img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
+</br
+
 
 
   <img src="https://activity-graph.herokuapp.com/graph?username=dark-lover-opz&&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph">
@@ -72,3 +83,4 @@
  <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+
