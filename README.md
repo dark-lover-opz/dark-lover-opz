@@ -1,6 +1,6 @@
-![My card name](https://cardivo.vercel.app/api?name=DARK%20-%20LOVER&description=Hi,%20Welcome%20To%20My%20Profile&image=https://i.imgur.com/1sT0b9N.jpeg?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23e4f2f6&instagram=jithuzzz_zz&github=dark-lover-opz&instagram=dark_lover_011_&twitter=dark_lover_opz&)
-</p>
-</p>
+<p align="center">
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.imgur.com/nJMxGMc.png""width="170" height="170"/>
+  <p align="center">
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=36&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Dark+lover;welcome+to+my+profile...!" />
