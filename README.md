@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31nclwh7w35vkuxoi5ssrx6dgu7m">
-    <img src="https://spotify-github-profile.vercel.app/api/now-playing"width="240px">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
 
