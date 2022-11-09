@@ -50,8 +50,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://pin.it/3aGyWaL"><img width="32px" alt="Pinterest" title="Pinterest" src="https://i.imgur.com/bJNqLRO.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://instagram.com/jithuzzz_zz_?igshid=YmMyMTA2M2Y="><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/x7gRYl3.jpeg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
  <h3 align="left"> ──────────⤍ </h3>
-
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dark-lover-opz&label=Visitors%20count&color=10d9c3&style=plastic" alt="dark-lover-opz" /> </p>
  <p align="center">
     <a href="https://git.io/typing-svg">
