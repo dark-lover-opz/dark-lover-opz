@@ -40,23 +40,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/dark_lover_opz"><img width="40px" alt="Twitter" title="Twitter" src="https://i.imgur.com/ewD5XTz.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/jithuzzz_zz?igshid=YmMyMTA2M2Y="><img width="40px" alt="Instagram" title="Instagram" src="https://i.imgur.com/zA1qi8m.png"/></a>
+  <a href="https://instagram.com/dark_lover_011_?igshid=YmMyMTA2M2Y="><img width="40px" alt="Instagram" title="Instagram" src="https://i.imgur.com/zA1qi8m.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/918281860437?text=%F0%9D%90%87%F0%9D%90%A2%E2%99%A5%EF%B8%8F"><img width="40px" alt="WhatsApp" title="WhatsApp" src="https://i.imgur.com/VNe05TT.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.facebook.com/profile.php?id=100008635365791"><img width="52px" alt="facebook" title="facebook" src="https://i.imgur.com/Sb2ACcy.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://t.me/dark_lover_ofc"><img width="40px" alt="Telegram" title="Telegram" src="https://i.imgur.com/yxH1LyT.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://pin.it/3aGyWaL"><img width="40px" alt="Pinterest" title="Pinterest" src="https://i.imgur.com/bJNqLRO.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://instagram.com/jithuzzz_zz_?igshid=YmMyMTA2M2Y="><img width="45px" alt="Instagram" title="Instagram" src="https://i.imgur.com/agqehBz.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://line.me/ti/p/JIRMUtvbo3"><img width="40px" alt="Line" title="Line" src="https://i.imgur.com/TX40GDH.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://open.spotify.com/user/31nclwh7w35vkuxoi5ssrx6dgu7m?si=VcwTPWqUQDChBLTbkNesNg&utm_source=copy-link"><img width="40px" alt="Spotify" title="Spotify" src="https://i.imgur.com/m7V0y8I.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.snapchat.com/add/fazz_fazil1?share_id=q6B-yAQrV7o&locale=en-GB"><img width="40px" alt="Snapchat" title="Snapchat" src="https://i.imgur.com/QIuK4s3.png"/></a>
+   <a href="https://t.me/dark_lover_ofc"><img width="40px" alt="Telegram" title="Telegram" src="https://i.imgur.com/yxH1LyT.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <h3 align="left"> ──────────⤍ </h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dark-lover-opz&label=Visitors%20count&color=10d9c3&style=plastic" alt="dark-lover-opz" /> </p>
