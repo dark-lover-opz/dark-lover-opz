@@ -56,6 +56,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://open.spotify.com/user/31nclwh7w35vkuxoi5ssrx6dgu7m?si=VcwTPWqUQDChBLTbkNesNg&utm_source=copy-link"><img width="40px" alt="Spotify" title="Spotify" src="https://i.imgur.com/m7V0y8I.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.snapchat.com/add/fazz_fazil1?share_id=q6B-yAQrV7o&locale=en-GB"><img width="40px" alt="Snapchat" title="Snapchat" src="https://i.imgur.com/QIuK4s3.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
  <h3 align="left"> ──────────⤍ </h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dark-lover-opz&label=Visitors%20count&color=10d9c3&style=plastic" alt="dark-lover-opz" /> </p>
  <p align="center">
