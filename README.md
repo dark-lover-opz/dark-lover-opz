@@ -54,6 +54,8 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://line.me/ti/p/JIRMUtvbo3"><img width="40px" alt="Line" title="Line" src="https://i.imgur.com/TX40GDH.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://open.spotify.com/user/31nclwh7w35vkuxoi5ssrx6dgu7m?si=VcwTPWqUQDChBLTbkNesNg&utm_source=copy-link"><img width="40px" alt="Spotify" title="Spotify" src="https://i.imgur.com/m7V0y8I.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
  <h3 align="left"> ──────────⤍ </h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dark-lover-opz&label=Visitors%20count&color=10d9c3&style=plastic" alt="dark-lover-opz" /> </p>
  <p align="center">
