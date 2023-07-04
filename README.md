@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31nclwh7w35vkuxoi5ssrx6dgu7m">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing" alt="Currently Playing">
   </a>
 </div>
 
@@ -22,10 +22,11 @@
 
 
 <div align="center">
-<a href="https://open.spotify.com/user/31nclwh7w35vkuxoi5ssrx6dgu7m">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31nclwh7w35vkuxoi5ssrx6dgu7m&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
+  <a href="https://open.spotify.com/user/31nclwh7w35vkuxoi5ssrx6dgu7m">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31nclwh7w35vkuxoi5ssrx6dgu7m&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
   </a>
 </div>
+
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
