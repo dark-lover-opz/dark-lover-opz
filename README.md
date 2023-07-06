@@ -15,9 +15,18 @@
 
 
 <h3 align="left"> ──────────⤍ </h3>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/fazilfazz011"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="afnanplk" /></a></p>
+
 <p align="left">
 <p align="center">
-  <a href="https://youtube.com/channel/UCcjaUmRbpSOxxK_ER3lkWWw"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
+  <a href="https://youtube.com/@dark-lover"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+<p align="left">
+<p align="center">
+  <a href="https://youtube.com/@letyourself"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/dark_lover_opz"><img width="40px" alt="Twitter" title="Twitter" src="https://i.imgur.com/ewD5XTz.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
