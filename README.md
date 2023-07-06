@@ -6,19 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=36&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Dark+lover;welcome+to+my+profile...!" />
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31nclwh7w35vkuxoi5ssrx6dgu7m">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing" alt="Currently Playing">
-  </a>
-</div>
-
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/31nclwh7w35vkuxoi5ssrx6dgu7m">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31nclwh7w35vkuxoi5ssrx6dgu7m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31nclwh7w35vkuxoi5ssrx6dgu7m&redirect=true)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -92,7 +80,6 @@
  <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
 
 
 
