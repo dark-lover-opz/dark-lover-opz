@@ -34,7 +34,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://t.me/dark_lover_ofc"><img width="40px" alt="Telegram" title="Telegram" src="https://i.imgur.com/yxH1LyT.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- <h3 align="left"> ──────────⤍ </h3>
+ <h3 align="left">
+<p align="center">
+    <a href="mailto:fazilfazz332@gmail.com">
+        <img src="https://i.imgur.com/U4uvnSE.png" alt="Email me" width="40px" title="Email me" />
+    </a>
+</p>
+ ──────────⤍ </h3>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dark-lover-opz&label=Visitors%20count&color=10d9c3&style=plastic" alt="dark-lover-opz" /> </p>
  <p align="center">
     <a href="https://git.io/typing-svg">
@@ -89,9 +95,3 @@
  <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
-
-
-
-
-
