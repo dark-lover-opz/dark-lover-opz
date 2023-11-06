@@ -41,12 +41,6 @@
     </a>
 </p>
  ──────────⤍ </h3>
- 
-<!-- Add the embedded audio player using the video URL -->
-    <audio controls autoplay>
-        <source src="https://i.imgur.com/vOpIyps.mp4" type="audio/mp4">
-        Your browser does not support the audio element.
-    </audio>
     
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dark-lover-opz&label=Visitors%20count&color=10d9c3&style=plastic" alt="dark-lover-opz" /> </p>
  <p align="center">
