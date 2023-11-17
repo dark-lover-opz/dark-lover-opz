@@ -21,18 +21,11 @@
 
 <p align="left">
 <p align="center">
-  <a href="https://youtube.com/@dark-lover"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
+  <a href="https://youtube.com/@DARKLOVEROPZ"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
-<p align="left">
-<p align="center">
-  <a href="https://youtube.com/@letyourself"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
+  <a href="https://instagram.com/sinilint?igshid=YmMyMTA2M2Y="><img width="40px" alt="Instagram" title="Instagram" src="https://i.imgur.com/zA1qi8m.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/dark_lover_opz"><img width="40px" alt="Twitter" title="Twitter" src="https://i.imgur.com/ewD5XTz.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/dark_lover_011_?igshid=YmMyMTA2M2Y="><img width="40px" alt="Instagram" title="Instagram" src="https://i.imgur.com/zA1qi8m.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://t.me/dark_lover_ofc"><img width="40px" alt="Telegram" title="Telegram" src="https://i.imgur.com/yxH1LyT.png"/></a>
+   <a href="https://t.me/jithuzzz_zz"><img width="40px" alt="Telegram" title="Telegram" src="https://i.imgur.com/yxH1LyT.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
  <h3 align="left">
 <p align="center">
