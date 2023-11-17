@@ -21,6 +21,9 @@
 
 <p align="left">
 <p align="center">
+ 
+
+
   <a href="https://youtube.com/@DARKLOVEROPZ"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://instagram.com/sinilint?igshid=YmMyMTA2M2Y="><img width="40px" alt="Instagram" title="Instagram" src="https://i.imgur.com/zA1qi8m.png"/></a>
@@ -32,6 +35,9 @@
     <a href="mailto:fazilfazz332@gmail.com">
         <img src="https://i.imgur.com/U4uvnSE.png" alt="Email me" width="40px" title="Email me" />
     </a>
+ 
+&#8287;&#8287;&#8287;&#8287;&#8287;
+
 </p>
  ──────────⤍ </h3>
     
