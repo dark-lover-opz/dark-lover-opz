@@ -11,62 +11,30 @@
 
 <h3 align="left"> ──────────⤍ </h3>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/fazilfazz011"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="afnanplk" /></a></p>
-
-<p align="left">
-<p align="center">
+<h3 align="left">Condact:</h3>
  
-
-
-  <a href="https://youtube.com/@DARKLOVEROPZ"><img width="40px" alt="Youtube" title="Youtube" src="https://i.imgur.com/fOzTKW5.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/sinilint?igshid=YmMyMTA2M2Y="><img width="40px" alt="Instagram" title="Instagram" src="https://i.imgur.com/zA1qi8m.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-   <a href="https://t.me/jithuzzz_zz"><img width="40px" alt="Telegram" title="Telegram" src="https://i.imgur.com/yxH1LyT.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- <h3 align="left">
-<p align="center">
-    <a href="mailto:fazilfazz332@gmail.com">
-        <img src="https://i.imgur.com/U4uvnSE.png" alt="Email me" width="40px" title="Email me" />
-    </a>
+ 
+<div align="center"> 
+  <a href="fazilfazz332@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://wa.me/918281860437" target="_blank">
+    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/kikuaeno" target="_blank">
+     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
  
 &#8287;&#8287;&#8287;&#8287;&#8287;
 
-</p>
- ──────────⤍ </h3>
     
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=dark-lover-opz&label=Visitors%20count&color=10d9c3&style=plastic" alt="dark-lover-opz" /> </p>
  <p align="center">
-    <a href="https://git.io/typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Learning+To+coding+and+Trying....!"
-            alt="Typing SVG"
-        />
-    </a>
-<img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
-</br
 
 
 
-
-
-
-
-
-
-
-
-
-  <img
-            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Info's+and+Issues's...!"
-            alt="Typing SVG"
-/>
-</a>
-</details>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-lover-opz" alt="dark-lover-opz" /></a> </p>
 <img
-            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Lenguges+and+Tools....!"
+            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Most+used+Lenguges....!"
             alt="Typing SVG"
         />
     </div>
