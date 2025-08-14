@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="https://i.imgur.com/deyhIoY.jpeg""width="200" height="200"/>
-  <p align="center">
-
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=36&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Dark+lover;welcome+to+my+profile...!" />
-</div>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nclwh7w35vkuxoi5ssrx6dgu7m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nclwh7w35vkuxoi5ssrx6dgu7m&redirect=true)
 
