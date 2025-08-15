@@ -45,6 +45,13 @@
     <tr>
   <div align="center">
 
+
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats?username=dark-lover-opz&theme=minimal&pixelate_avatar=false" alt="GitHub Stats" />
+</p>
+
  [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://youtube.com/channel/UCcjaUmRbpSOxxK_ER3lkWWw)
 
 
