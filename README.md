@@ -1,61 +1,52 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+<div align="right">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&random=false&width=1300&lines=Hello%2C+I'm+FaZ!L" width="70%" />
+<br><br>
+<pre>
+    🌙 20 • Born 17.02.2005
+💻 JavaScript • C++ • Shell
+🚀 Node.js • Bun • SQLite
+🌸 Anime • Music • Sleep • Science
+✨ Building
+</pre>
+<br><br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31nclwh7w35vkuxoi5ssrx6dgu7m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31nclwh7w35vkuxoi5ssrx6dgu7m&redirect=true)
-
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Trying++to+do+better&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<p align="rightr">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31nclwh7w35vkuxoi5ssrx6dgu7m&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nclwh7w35vkuxoi5ssrx6dgu7m&cover_image=true&theme=apple&show_offline=false&background_color=000000&interchange=true&profanity=true&mode=dark">
+  </a>
 </p>
-
-
-<h3 align="left"> ──────────⤍ </h3>
-
-<h3 align="left">Condact:</h3>
- 
- 
-<div align="center"> 
-  <a href="fazilfazz332@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://wa.me/918281860437" target="_blank">
-    <img src="https://img.shields.io/badge/whatsapp-008000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://instagram.com/kikuaeno" target="_blank">
-     <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
- 
-&#8287;&#8287;&#8287;&#8287;&#8287;
-
     
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=dark-lover-opz&label=Visitors%20count&color=10d9c3&style=plastic" alt="dark-lover-opz" /> </p>
- <p align="center">
+[![](https://img.shields.io/badge/JavaScript-2d2d2d?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![](https://img.shields.io/badge/C++-2d2d2d?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![](https://img.shields.io/badge/Node.js-2d2d2d?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![](https://img.shields.io/badge/Bun-2d2d2d?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
+[![](https://img.shields.io/badge/SQLite-2d2d2d?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![](https://img.shields.io/badge/Shell-2d2d2d?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
+</div>
 
+---
 
+```javascript
+  async () => {
+  const identity = { name: "FaZ!L", born: "2005-02-17", location: "IND-KL" };
+  console.log("Welcome to my world");
+}();
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-lover-opz" alt="dark-lover-opz" /></a> </p>
-<img
-            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Most+used+Lenguges....!"
-            alt="Typing SVG"
-        />
-    </div>
+---
+
 <div align="center">
- <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-lover-opz&theme=radical&layout=compact" /></td>
-    </tr>
-    <tr>
-  <div align="center">
 
+<a href="https://github.com/dark-lover-opz">
+  <img src="https://img.shields.io/badge/open--source-2d2d2d?style=flat-square&labelColor=2d2d2d&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=dark-lover-opz&color=2d2d2d&style=flat-square&label=visitors" />
+<img src="https://img.shields.io/github/followers/dark-lover-opz?color=2d2d2d&style=flat-square&label=followers" />
+<img src="https://img.shields.io/github/stars/dark-lover-opz?color=2d2d2d&style=flat-square&label=stars" />
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<br>
 
-<p align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=dark-lover-opz&theme=minimal&pixelate_avatar=false" alt="GitHub Stats" />
-</p>
+<sub>FaZ!l*$</sub>
 
- [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://youtube.com/channel/UCcjaUmRbpSOxxK_ER3lkWWw)
-
-
-
- <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</div>
